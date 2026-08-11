@@ -84,3 +84,5 @@ forecastlens/
 - **Python**: pandas, statsmodels (SARIMA), Prophet (Meta)
 - **Visualization**: Plotly, Streamlit
 - **Methodology**: STL decomposition, train/holdout backtesting, MAE/MAPE evaluation
+## Live Demo
+Interactive dashboard: https://forecastlensapp.streamlit.app
